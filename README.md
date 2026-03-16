@@ -1,12 +1,12 @@
-# 👨‍💻 Jacob Vidal Marín | Senior Software Engineer
+# JVM | Senior Software Engineer
 
 Software Engineer with over 10 years of technical experience. Specialist in building high-availability distributed systems, critical infrastructure modernization, and Web3 ecosystems.
 
-**📍 Santiago, Chile**
+**Santiago, Chile**
 
 ---
 
-### 🚀 Areas of Expertise
+### Areas of Expertise
 - **Cloud Native & GitOps:** Orchestration with Kubernetes, continuous deployment with ArgoCD, and observability with Prometheus.
 - **Enterprise & Performance Backend:** Mastery in C# .NET, Java (Spring Boot), Go, and Python (FastAPI/Django).
 - **Web3 & Blockchain:** Development of smart contracts with Solidity and decentralized applications (DApps).
@@ -14,7 +14,7 @@ Software Engineer with over 10 years of technical experience. Specialist in buil
 
 ---
 
-### 🛠️ Professional Tech Stack
+### Professional Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -28,7 +28,7 @@ Software Engineer with over 10 years of technical experience. Specialist in buil
 
 ---
 
-### 📈 GitHub Ecosystem
+### GitHub Ecosystem
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daswort&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daswort&layout=compact&langs_count=7&theme=react"/>
@@ -36,6 +36,6 @@ Software Engineer with over 10 years of technical experience. Specialist in buil
 
 ---
 
-### 📫 Professional Contact
+### Professional Contact
 [<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://cl.linkedin.com/in/jacob-vidal-mar%C3%ADn-b251491a6)
 [<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">](mailto:firstcommand@gmail.com)
