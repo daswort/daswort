@@ -8,9 +8,9 @@ Software Engineer with over 10 years of technical experience. Specialist in buil
 
 ### Areas of Expertise
 - **Cloud Native & GitOps:** Orchestration with Kubernetes, continuous deployment with ArgoCD, and observability with Prometheus.
-- **Enterprise & Performance Backend:** Mastery in C# .NET, Java (Spring Boot), Go, and Python (FastAPI/Django).
+- **Enterprise & Performance Backend:** Mastery in C# .NET, Java (Spring Boot), Go, Python (FastAPI/Django) and Node.js.
 - **Web3 & Blockchain:** Development of smart contracts with Solidity and decentralized applications (DApps).
-- **Multi-Platform Development:** Modern interfaces with React, Node.js, Flutter, and Blazor (WebAssembly).
+- **Multi-Platform Development:** Modern interfaces with React, Flutter, and Blazor (WebAssembly).
 
 ---
 
