@@ -15,7 +15,6 @@ Software Engineer with over 10 years of technical experience. Specialist in buil
 ---
 
 ### Professional Tech Stack
-https://img.shields.io/badge/C%23-239120?style=flat-squaret&logo=unity&logoColor=white
 | Category | Technologies |
 | :--- | :--- |
 | **Backend & Core** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-201155?style=flat-square&logo=unity&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Typescript](https://img.shields.io/badge/-Typescript-4169E1?style=flat-square&logo=typescript&logoColor=white) |
